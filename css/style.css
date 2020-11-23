@@ -1,9 +1,19 @@
 /* Navbar text */
 #navbar {
-    color: darkgreen!important;
+   color: darkgreen!important;
 }
 
 /* Navbar background */
 .bg-dark {
     background-color: #597d35!important;
+}
+
+/* Background */
+body {
+    background-color: lightgrey;
+}
+
+/* Containers */
+#container {
+    background-color: linen;
 }
