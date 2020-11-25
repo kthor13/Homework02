@@ -17,3 +17,8 @@ body {
 #container {
     background-color: linen;
 }
+
+/* Footer */
+.mt-auto {
+    background-color: #add8e6;
+}
