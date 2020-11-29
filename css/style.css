@@ -33,9 +33,8 @@ body {
    text-align: center;
   }
 
-.footer2 {
-    left: 0;
-    bottom: 0;
+/* Top bar of footer */
+  .footer2 {
     background-color: midnightblue;
     height: 5px;
     width: 100%;
