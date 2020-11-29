@@ -3,6 +3,10 @@
     color: darkgreen!important;
 }
 
+.navbar.a {
+    color: black !important;
+}
+
 /* Navbar background */
 .bg-dark {
     background-color: #597d35!important;
@@ -30,6 +34,8 @@ body {
   }
 
 .footer2 {
+    left: 0;
+    bottom: 0;
     background-color: midnightblue;
     height: 5px;
     width: 100%;
