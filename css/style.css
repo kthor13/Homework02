@@ -1,15 +1,11 @@
-/* Navbar text */
-#navbar {
-    color: darkgreen!important;
-}
-
-.navbar.a {
-    color: black !important;
-}
-
 /* Navbar background */
-.bg-dark {
+.navbar {
     background-color: #597d35!important;
+}
+
+/* Navbar Links */
+.nav-item {
+    float: right;
 }
 
 /* Background */
