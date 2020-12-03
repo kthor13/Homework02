@@ -16,13 +16,15 @@ body {
 /* Containers */
 .card {
     margin: 20px;
-    background-color: #B0E0E6;
+    background-color: #add8e6;
 }
 
 /* Images Properties */
 .portfolioImage {
     margin: 20px;
-    border: darkgreen, 2px;
+    border-color: darkgreen;
+    border-width: 3px;
+    border-style: solid;
 }
 
 /* Footer */
